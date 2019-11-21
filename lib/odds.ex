@@ -1,4 +1,5 @@
 defmodule Odds do
+I try to fing error but I can not
 
   def play(simulation_count, bet, target, odds_per_win) do
     chances = 
